@@ -6,5 +6,5 @@ I love Dart and Flutter, I also like Java and Javascript, although the language 
 ###Personal interests
 
 Since life is not just programming, I am going to tell you some of my hobbies:
-I like kayaking and the practice of yoga and meditation. I love my dog :dog: and to see a nice sunset from the seashore.
+I like kayaking and the practice of yoga and meditation :lotus_position: . I love my dog :dog: and to see a nice sunset from the seashore.
 
