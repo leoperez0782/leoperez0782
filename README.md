@@ -1,6 +1,6 @@
 # Hi👋 I am Leonardo Pérez, a computer analyst and programmer :man_technologist:
 
-## :raising_hand_man: Looking for a job!!
+## :raising_hand_man: Hi, lets work togheter!!
 
 I recently got my degree and am now looking for a developer position.
 I prefere backend, also like mobile development.At this time, i am discovering the path that will guide me trhoug my carreer.
