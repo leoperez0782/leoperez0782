@@ -1,10 +1,8 @@
 # Hi👋 I am Leonardo Pérez, a computer analyst and programmer :man_technologist:
 
-## :raising_hand_man: lets work togheter!!
+## :raising_hand_man: jr. backend developer!!
 
-I recently got my degree and am now looking for a developer position.
-I prefere backend, also like mobile development.At this time, i am discovering the path that will guide me trhoug my carreer.
-I am on my way to make a portfolio, as you can see it is under construction. Hope when it's done, you really enjoy it.
+Hi! Welcome to my github profile! Actually i am working as a backend developer, using Java, SpringBoot and PostgreSQL. I also like mobile development, i really like Flutter, and i have plans to learn Kotlin. I hope i can find time update my repo.
 
 ## Personal interests
 
